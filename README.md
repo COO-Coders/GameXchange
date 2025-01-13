@@ -28,7 +28,7 @@
 
 ---
 
-## Ferramentas utilizadas
+## 🛠 Ferramentas utilizadas
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 
 ## 💡 Como Funciona
