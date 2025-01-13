@@ -50,9 +50,7 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 ## 📬 Contato
 
-- **E-mail**: support@gamexchange.com
-- **Site**: [www.gamexchange.com](#)
-- **Redes Sociais**: [Facebook](#), [Twitter](#), [Instagram](#)
+- **E-mail**: COO-coders@gmail.com
 
 ---
 
