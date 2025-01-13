@@ -28,6 +28,9 @@
 
 ---
 
+## Ferramentas utilizadas
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+
 ## 💡 Como Funciona
 
 1. **Tela de Login**: Faça login com sua conta.
