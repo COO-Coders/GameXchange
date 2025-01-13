@@ -1,7 +1,5 @@
 # GameXchange
 
-# GameXchange
-
 **GameXchange** é um aplicativo inovador que combina o prazer de jogar com a praticidade de um conversor de moedas. Aventure-se em um jogo emocionante enquanto gerencia e converte moedas de diferentes países, tudo em um único app!
 
 ---
