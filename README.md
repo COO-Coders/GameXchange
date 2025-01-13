@@ -52,7 +52,7 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 ## 📬 Contato
 
-- **E-mail**: COO-coders@gmail.com
+- **E-mail**: coders.COO@gmail.com
 
 ---
 
