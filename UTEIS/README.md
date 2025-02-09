@@ -18,6 +18,21 @@
 - [Casas decimais com dois digitos após a virgula 0,00 - GUJ.](https://www.guj.com.br/t/casas-decimais-com-dois-digitos-apos-a-virgula-0-00/350712)
 - [Desabilitar um textField - Java - GUJ.](https://www.guj.com.br/t/desabilitar-um-textfield/47040)
 
+### Vídeos que ajudaram a fazer o Jogo da Velha.
+
+[Jogo da Velha em Java - Parte 1 - Montando a Interface Gráfica - NetBeans 7.1](https://www.youtube.com/watch?v=asFaSoJiKis&list=PLbQCJbhCiQB6xq6EuhjoiAVzo3LE2lPg4&index=2)
+
+[Jogo da Velha em Java - Parte 2 - Renomeando Variáveis e definindo propriedades - NetBeans 7.1](https://www.youtube.com/watch?v=jCoXb4vb0VQ&list=PLbQCJbhCiQB6xq6EuhjoiAVzo3LE2lPg4&index=2)
+
+[Jogo da Velha em Java - Parte 3 - Atribuindo Funcionalidades aos JButtons - NetBeans 7.1](https://www.youtube.com/watch?v=OCyIn9yA0jQ&list=PLbQCJbhCiQB6xq6EuhjoiAVzo3LE2lPg4&index=4)
+
+[Jogo da Velha em Java - Parte 4 - Elaborando a Lógica do Jogo - NetBeans 7.1](https://www.youtube.com/watch?v=2Mi5RzKGfoE&list=PLbQCJbhCiQB6xq6EuhjoiAVzo3LE2lPg4&index=5)
+
+[Jogo da Velha em Java - Parte 5 - Verificando Linhas, Colunas e Diagonais - NetBeans 7.1](https://www.youtube.com/watch?v=YkGmYq0W_PA&list=PLbQCJbhCiQB6xq6EuhjoiAVzo3LE2lPg4&index=6)
+
+[Jogo da Velha em Java - Parte 6 - Atualizando e Complementando o Jogo - NetBeans 7.1](https://www.youtube.com/watch?v=gZwctg43B3Q&list=PLbQCJbhCiQB6xq6EuhjoiAVzo3LE2lPg4&index=7)
+
+
 
 
 
