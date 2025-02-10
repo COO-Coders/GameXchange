@@ -1,7 +1,4 @@
-# Compilar e Executar Programa Java no NetBeans
-
-
-# Como Compilar e Executar o Programa Java
+# Como Compilar e Executar o Programa Java Utilizando Netbeans
 
 Este guia explica como compilar e executar um programa Java desenvolvido no NetBeans. O código-fonte está localizado no diretório `src/br/edu/views` e faz parte do pacote `br.edu.views`.
 
