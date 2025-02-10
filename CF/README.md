@@ -62,6 +62,6 @@ Se quiser rodar o programa diretamente no NetBeans:
 Seguindo esses passos, você conseguirá compilar e executar seu programa Java manualmente pelo terminal ou utilizando o NetBeans.
 
 Caso tenha dúvidas, consulte a documentação oficial do NetBeans ou do JDK.
-```
+
 
 
