@@ -12,6 +12,10 @@
 
 [Java Swing - Como utilizar o JComboBox?](https://youtu.be/LhQ79B-n-H8?si=amKp0N9Lkr5WVcoi)
 
+[Aula Java - Adicionando Icones no Menu Principal e Melhorando nosso Login](https://youtu.be/9cPz5SCqqQA?si=p3_2p-cM_tAt_6tX)
+
+[Como Alterar o Icone do Jar no Netbeans](https://youtu.be/aagMVOIxp6k?si=DXdN9XdZOHngTA-U)
+
 ### Sítes que ajudaram a fazer o Conversor de moedas.
 
 - [Blocos Try/Catch no java.](https://www.devmedia.com.br/blocos-try-catch/7339)
